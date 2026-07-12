@@ -78,15 +78,15 @@ A WiFi-controlled robotic car built using the ESP8266 NodeMCU, L298N motor drive
 
 ### Robot
 
-![Robot](images/robot.jpg)
+![Robot](robot.jpg)
 
 ### Circuit Diagram
 
-![Circuit](images/circuit.png)
+![Circuit](circuit.png)
 
 ### Blynk App
 
-![Blynk](images/blynk_app.jpg)
+![Blynk](blynk_app.jpg)
 
 ---
 
